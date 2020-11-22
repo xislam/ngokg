@@ -1,0 +1,20 @@
+[
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$150000$CrQX36CYNQxl$F8FRn7lGDS/otb0jXqMH197WUaf8eZvQvvVpGkq+qkI=",
+    "last_login": null,
+    "is_superuser": true,
+    "username": "admin",
+    "first_name": "",
+    "last_name": "",
+    "email": "nurdinovislam4@gmail.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2020-11-07T13:14:45.860Z",
+    "groups": [],
+    "user_permissions": []
+  }
+}
+]
